@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Mohammed Anis ZEMALI 👋</h1>
 
 <p align="center">
-  🎓 AI Student @ ENSIA • 🧠 Machine Learning Enthusiast • 💻 Full-Stack Explorer • 📱 Flutter Dev • 🎮 Gamer at heart
+  🎓 AI Student @ ENSIA • 🧠 Machine Learning Enthusiast • 💻 Full-Stack Explorer • 🎮 Gamer at heart
 </p>
 
 ---
