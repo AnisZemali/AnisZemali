@@ -1,66 +1,57 @@
-# Mohammed Anis ZEMALI 😄
+<h1 align="center">Hey there, I'm Mohammed Anis ZEMALI 👋</h1>
 
-[![Twitter](https://img.shields.io/badge/-@Abdenour-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Abdenour)
-[![Instagram](https://img.shields.io/badge/-@Abdenour-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/Abdenour)
-[![LinkedIn](https://img.shields.io/badge/-Abdenour%20Bouziane-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdenour-bouziane)
-[![Facebook](https://img.shields.io/badge/-Abdenour%20Bouziane-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/AbdenourBouziane)
-
----
-
-🎓 **AI Student | Data Science | Machine Learning | Deep Learning | Mobile Dev | Web Dev**
+<p align="center">
+  🎓 AI Student @ ENSIA • 🧠 Machine Learning Enthusiast • 💻 Full-Stack Explorer • 📱 Flutter Dev • 🎮 Gamer at heart
+</p>
 
 ---
 
-## About Me 😎
+## 🧠 About Me
 
-I'm **Abdenour Bouziane**, a 4th-year AI student at **ENSIA**, passionate about solving real-world problems using data and intelligent systems. Currently freelancing in software development.
-
----
-
-## 🌐 Communities
-
-- 👥 Contributor at [Gostu](https://github.com/Gostu) — An open educational platform.
+- 👨‍🎓 4th year student at ENSIA (National Higher School of Artificial Intelligence - Algeria).
+- 🔭 I’m currently working as a freelancer in software development.
+- 💡 I love turning **ideas** into real-world solutions using **AI** & **code**.
+- 🎮 Gaming is one of my biggest passions — whether it's strategy, FPS, or a good co-op adventure!
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 What I’m Good At
 
-- 📊 Data Analysis & Science (Python, Pandas, NumPy)
-- 🤖 Machine Learning & Deep Learning (TensorFlow, PyTorch)
-- 📱 Mobile App Dev (Flutter)
-- 🌐 Web Development (HTML, CSS, JS, React)
-- 🧠 AI & Computer Vision Projects
-
----
-
-## 🛠️ Languages and Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-<!-- Add more icons as you like -->
+✨ Artificial Intelligence  
+🧪 Data Science & Analytics  
+🧠 Deep Learning  
+📱 Mobile App Development (Flutter)  
+🕸️ Web Dev (React, Node.js)  
+📊 Data Visualization  
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Toolbox
 
-![Abdenour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdenourBouziane&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdenourBouziane&layout=compact&theme=radical)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📬 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/-bouzianeabdenour18@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bouzianeabdenour18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Abdenour%20Bouziane-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdenour-bouziane)
+<p align="center">
+  <a href="mailto:bouzianeabdenour18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/abdenour-bouziane"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Abdenour"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/Abdenour"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 ---
 
-## 👁️ Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AbdenourBouziane&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdenourBouziane&label=Profile+Views&color=brightgreen" alt="profile views"/>
+</p>
