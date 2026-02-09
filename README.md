@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 👨‍🎓 4th year student at ENSIA (National Higher School of Artificial Intelligence - Algeria).
+- 👨‍🎓 5th year student at ENSIA (National Higher School of Artificial Intelligence - Algeria).
 - 🔭 I’m currently working as a freelancer in software development.
 - 💡 I love turning **ideas** into real-world solutions using **AI** & **code**.
 - 🎮 Gaming is one of my biggest passions — whether it's strategy, FPS, or a good co-op adventure!
